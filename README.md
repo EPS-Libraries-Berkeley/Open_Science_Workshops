@@ -13,5 +13,5 @@ Find presentations materials here.
 | 8/30/19 | 11:00AM - 12:00PM | Citation Management
 | 9/13/19 | 11:00AM - 12:00PM | Collaborative writing in LaTeX with Overleaf
 | 9/27/19 | 11:00AM - 12:00PM | Jupyter Notebooks best practices
-| 10/3/19 | 4:00PM - 5:00PM | Dynamic data management, publishing and citation
+| 10/3/19 | 1:30PM - 2:30PM | Dynamic data management, publishing and citation
 | 10/4/19 | 11:00AM - 12:00PM | Approaches to Github and reproducible code
