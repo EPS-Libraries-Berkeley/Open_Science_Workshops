@@ -9,7 +9,7 @@ Find presentations materials here.
 
 | Date | Time | Topic |
 | --- | --- | --- |
-| 8/21/19 | 4:00PM - 5:00PM | Introduction to Research Workflows and Literature Searching | (./Earth Sciences Library Orientation 2019.pdf)
+| 8/21/19 | 4:00PM - 5:00PM | [Introduction to Research Workflows and Literature Searching](https://github.com/EPS-Libraries-Berkeley/Open_Science_Workshops/blob/master/Earth%20Sciences%20Library%20Orientation%202019.pdf) |
 | 8/30/19 | 11:00AM - 12:00PM | Citation Management
 | 9/13/19 | 11:00AM - 12:00PM | Collaborative writing in LaTeX with Overleaf
 | 9/27/19 | 11:00AM - 12:00PM | Jupyter Notebooks best practices
