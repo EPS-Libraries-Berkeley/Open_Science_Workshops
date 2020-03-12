@@ -13,7 +13,7 @@ Find presentations materials here.
 | 8/30/19 | 11:00AM - 12:00PM | Citation Management | [Exercises](https://github.com/EPS-Libraries-Berkeley/Open_Science_Workshops/blob/master/Citation%20Management%20Handout%20(Zotero).pdf)
 | 9/13/19 | 11:00AM - 12:00PM | [Collaborative writing in LaTeX with Overleaf](https://github.com/EPS-Libraries-Berkeley/Open_Science_Workshops/blob/master/OS%202019%20Pilot_%20Introduction%20to%20LaTeX%20using%20Collaboration%20Tools_%20%20Basics%20and%20Bibliographies.pdf) |[Exercises](https://github.com/EPS-Libraries-Berkeley/Open_Science_Workshops/blob/master/EPS%20LaTeX%20Workshop%20Exercises.pdf)|
 | 9/27/19 | 11:00AM - 12:00PM | [Jupyter Notebooks best practices](https://github.com/yuempark/EPS-research-workflows-jupyter) |
-| 10/3/19 | 1:30PM - 2:30PM | [Dynamic data management, publishing and citation](https://slides.com/asackmann/dynamic-data-management-plans-sharing-and-managing-data-storage-final-naming-conventions-fair-data-data-publishing-and-citation)|
+| 10/3/19 | 1:30PM - 2:30PM | [Dynamic data management, publishing and citation](https://slides.com/asackmann/dynamic-data-management-plans-sharing-and-managing-data-storage-final-naming-conventions-fair-data-data-publishing-and-citation)|[Exercises](case study worksheet.pdf)|
 | 10/4/19 | 11:00AM - 12:00PM | Approaches to Github and reproducible code
 
 ## Acknowledgements
